@@ -10,3 +10,7 @@ Completion Order:
 6. UserDeviceAuthentication
 7. DeviceIDFilter
 8. IPAddressFlagChecker
+9. File Manipulation
+   - LogintxtReset
+   - ConverFileToList
+   - RewriteAFile
