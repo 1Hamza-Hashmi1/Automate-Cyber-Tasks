@@ -12,5 +12,7 @@ Completion Order:
 8. IPAddressFlagChecker
 9. File Manipulation
    - LogintxtReset
-   - ConverFileToList
-   - RewriteAFile
+   - SecuirtyLogReader
+   - SecuirtyLogUpdater
+10. Algorithim
+    - IPAccessControlUpdater
