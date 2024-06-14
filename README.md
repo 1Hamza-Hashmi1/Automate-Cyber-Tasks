@@ -8,3 +8,5 @@ Completion Order:
 4. LoginAnalysis
 5. ExtractWebsiteName
 6. UserDeviceAuthentication
+7. DeviceIDFilter
+8. IPAddressFlagChecker
